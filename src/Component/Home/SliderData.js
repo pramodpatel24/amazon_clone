@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+        image:
+            'https://m.media-amazon.com/images/I/71jw48MghVL._SX3000_.jpg'
+    },
+    {
+        image:
+            'https://m.media-amazon.com/images/I/61p-k-MohqL._SX3000_.jpg'
+    },
+    {
+        image:
+            'https://m.media-amazon.com/images/I/91-YIHP9I3L._SX3000_.jpg'
+    },
+    {
+        image:
+            'https://m.media-amazon.com/images/I/61aURrton0L._SX3000_.jpg'
+    },
+    {
+        image:
+            'https://m.media-amazon.com/images/I/71cp9PVuTfL._SX3000_.jpg'
+    }
+];
